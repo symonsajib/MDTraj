@@ -1,3 +1,3 @@
 # MDTraj
 
-Analyzing the trajectory of a MD simulatuion. 
+Basic investigation and analysis of a trajectory of atomistic simulation. 
